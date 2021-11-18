@@ -1,0 +1,21 @@
+{
+  "name": "autoscristopher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CristopherFontes1/Autos-Cristopher.git"
+  },
+  "keywords": [],
+  "author": "Cristopher Fontes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CristopherFontes1/Autos-Cristopher/issues"
+  },
+  "homepage": "https://github.com/CristopherFontes1/Autos-Cristopher#readme"
+}
